@@ -1,4 +1,5 @@
 # Tarefa Fundamentos Python
-# Listas Built-ins
+
+Loop / Condicionais / Acumuladores / Comparações
 
 Nome: Taissa Sahado
